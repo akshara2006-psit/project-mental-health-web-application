@@ -1,0 +1,43 @@
+<!-- this is main chat section -->
+            <!-- <div class="anchor-ai">
+                <div class="chat-of-bot chat-property-same-ai">
+                    <p>AI Reply</p>
+                </div>
+                <a href="#">Get Know More</a>
+                <a href="#">Have some Video</a>
+                <a href="#">Have some Meditation</a>
+                <a href="#">Have Some Jokes</a>
+                <a href="#">Have Some Stories</a>
+            </div> -->
+
+            <!-- this is video section -->
+            <!-- <a href="#">
+                <div class="video-ai">
+                    <div class="video-thumbnail">
+                        <img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/learn-programming-thumbnail-design-template-0ca5aeca43d19f4b1edbda9805c40194_screen.jpg?ts=1682674671"
+                            alt="thumbnail">
+                    </div>
+                    <div class="video-info">
+                        10 Tips to Learn Programming Basic to Advance | CodeWithHarry
+                    </div>
+                </div>
+            </a>
+
+            <a href="#">
+                <div class="video-ai">
+                    <div class="video-thumbnail">
+                        <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230419121924/Cloud-Computing.webp"
+                            alt="thumbnail">
+                    </div>
+                    <div class="video-info">
+                        Learn Cloud Computing Basic to Advance | Apna College
+                    </div>
+                </div>
+            </a> -->
+
+            <!-- this is audio section -->
+            <!-- <div class="audios-ai">
+                <audio src="./assests/choo lo.mp3" controls controlsList="nodownload noplaybackrate"></audio>
+                <audio src="./assests/meme1.mp3" controls controlsList="nodownload noplaybackrate"></audio>
+            </div> -->
+            <!-- end -->
