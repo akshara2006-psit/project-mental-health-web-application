@@ -1,8 +1,8 @@
- Mental Health & Web Application
+** Mental Health & Web Application**
 
 A hackathon-winning MedTech web application focused on improving mental well-being and children’s speech development using AI, facial expression analysis, and interactive learning techniques.
 
-Project Highlights
+**Project Highlights**
 
  1-Prize-Winning Hackathon Project
 
@@ -15,13 +15,13 @@ Project Highlights
     Kids Speech Improvement
 
     AI-Based Therapy
-Description
+**Description**
 
 This project was developed during a hackathon to address the growing challenges of mental health instability and delayed speech development in children.
 
 The application uses AI-powered interactions, facial emotion analysis, and activity-based therapy to provide personalized mental health support and speech improvement exercises in an accessible and engaging way.
 
-Problem Statement
+**Problem Statement**
 
 Mental health issues and delayed speech development in children often:
 
@@ -31,7 +31,7 @@ Lack affordable and accessible solutions
 
 Require continuous monitoring and personalized care
 
-Our Solution
+**Our Solution**
 
 This project provides:
 
@@ -41,8 +41,8 @@ This project provides:
 
  Personalized therapy plans based on user behavior and feedback
 
- Tech Stack
- Languages
+** Tech Stack**
+** Languages**
 
 HTML
 
@@ -66,7 +66,7 @@ Google Gemini API
 
 YouTube Video Integration
 
- Key Features
+** Key Features**
  AI Mental Health Chatbot
 
 Powered by Google Gemini API
@@ -101,7 +101,7 @@ Activities unlock day-by-day
 
 Plans improve automatically based on daily user ratings
 
- How It Works (Architecture Overview)
+** How It Works (Architecture Overview)**
  Frontend
 
 HTML, CSS, JavaScript
@@ -132,7 +132,7 @@ Firebase
 
 Stores user progress, therapy plans, and feedback
 
- Installation & Setup
+** Installation & Setup**
  Requirements
 
 Modern Web Browser
@@ -140,8 +140,8 @@ Modern Web Browser
 Firebase Project Setup
 
 VS Code (Recommended)
-
- Steps
+**
+ Steps**
 git clone https://github.com/akshara2006-psit/project-mental-health-web-application.git
 cd project-mental-health-web-application
 
@@ -149,8 +149,8 @@ cd project-mental-health-web-application
 Configure Firebase credentials
 
 Open index.html in browser or use Live Server
-
- Project Status
+**
+ Project Status**
 
  Work in Progress
 Future improvements include:
@@ -160,8 +160,8 @@ More AI personalization
 Multilingual speech support
 
 Advanced analytics dashboard
-
- License
+**
+ License**
 
 This project is developed for educational and hackathon purposes.
 
